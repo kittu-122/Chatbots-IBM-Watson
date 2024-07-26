@@ -1,0 +1,4 @@
+PREVIEW LINK TO OPEN CHATBOT WITH WATSON ASSISTANT:
+
+https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-c5c15195-db49-4e5d-95d1-7fbd05ad2468%3A%3Aa7ff18f8-eff5-47a2-bc3e-f708753deb41&integrationID=5067776c-feff-428d-8de7-4e331258d859&region=au-syd&serviceInstanceID=c5c15195-db49-4e5d-95d1-7fbd05ad2468
+
